@@ -1,1 +1,1 @@
-# rwandabookinttour
+# rwandabookingtour
